@@ -1,2 +1,16 @@
 # Coding_streak
-Daily Coding Streak — LeetCode + HackerRank | Java | DSA Progress Journey  Practicing 1 LeetCode + 1 HackerRank problem every day to improve problem-solving, logic building, and coding confidence. This repository tracks my daily consistency, solutions, notes, and thought process in DSA.
+Coding Streak — Daily LeetCode & HackerRank Practice
+Welcome to my daily coding journey!
+I am solving 1 LeetCode + 1 HackerRank problem every single day to build strong foundations in:
+
+Data Structures & Algorithms
+
+Problem-solving
+
+Logical thinking
+
+Coding confidence
+
+Interview preparation
+
+This repository is my public commitment to consistency, discipline, and growth as a future software developer.
