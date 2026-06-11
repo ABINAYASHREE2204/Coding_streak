@@ -1,8 +1,8 @@
 # Coding_streak
-Daily LeetCode & HackerRank Practice
+Daily LeetCode & HackerRank Practice  
 
 Welcome to my daily coding journey!
-I am solving 1 LeetCode + 1 HackerRank problem every single day to build strong foundations in:
+I am solving 1 LeetCode problem every single day to build strong foundations in:
 
 Data Structures & Algorithms,
 
