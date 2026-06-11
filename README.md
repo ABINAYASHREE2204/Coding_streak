@@ -4,14 +4,14 @@ Daily LeetCode & HackerRank Practice
 Welcome to my daily coding journey!
 I am solving 1 LeetCode + 1 HackerRank problem every single day to build strong foundations in:
 
-Data Structures & Algorithms
+Data Structures & Algorithms,
 
-Problem-solving
+Problem-solving,
 
-Logical thinking
+Logical thinking,
 
-Coding confidence
+Coding confidence,
 
-Interview preparation
+Interview preparation,
 
 This repository is my public commitment to consistency, discipline, and growth as a future software developer.
