@@ -1,5 +1,5 @@
 # Coding_streak
-Daily LeetCode & HackerRank Practice  
+Daily LeetCode & HackerRank Practice  20 days challenge
 
 Welcome to my daily coding journey!
 I am solving 1 LeetCode problem every single day to build strong foundations in:
